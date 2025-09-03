@@ -82,12 +82,12 @@ h6,
 /*** Navbar ***/
 .sticky-top {
     top: -150px;
-    transition: .5s;
+    transition: .5s; background-color: #0C131D !important;
 }
 
 .navbar {
     padding: 11px 0 !important;
-    height: 75px;
+    height: 75px; 
     
 }
 
@@ -545,7 +545,10 @@ h6,
 .feature div{ font-size: 24px;}
 
 h1.text-white{ color: #2daaed !important;}
-
 .bannerBtn{ color: #000 !important; background: #2daaed ; border: 1px solid #0C131D; font-weight: bold;}
 .WelcomeText{ color: #fff !important; text-align: center; font-size: 20px;}
 .WelcomeText h1{ color: #fff !important;}
+
+.hero-header {
+ background: url(../img/header_bg1.jpg) center 50% no-repeat;
+}   
