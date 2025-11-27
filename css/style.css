@@ -87,7 +87,7 @@ h6,
 
 .navbar {
     padding: 11px 0 !important;
-    height: 75px; 
+    height: 115px; 
     
 }
 
@@ -102,7 +102,7 @@ h6,
 
 .navbar .navbar-nav .nav-link:hover,
 .navbar .navbar-nav .nav-link.active {
-    color: rgba(255, 255, 255, 1);
+    color:#2daaed;
 }
 
 .navbar .dropdown-toggle::after {
@@ -552,3 +552,6 @@ h1.text-white{ color: #2daaed !important;}
 .hero-header {
  background: url(../img/header_bg1.jpg) center 50% no-repeat;
 }   
+
+.text-justify{ text-align: justify;}
+.team h4 { color: #1363c6 ;}
